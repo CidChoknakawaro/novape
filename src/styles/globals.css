@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-brand: #377DFF;
+  --color-brand-light: #E5EEFF;
+
+  /* Font families */
+  --font-sans: "League Spartan", ui-sans-serif, system-ui;
+}
