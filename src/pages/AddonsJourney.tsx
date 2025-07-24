@@ -1,5 +1,3 @@
-// src/pages/AddonsJourney.tsx
-import React from 'react'
 import { useNavigate } from 'react-router-dom'
 // import your map image
 import journeyMap from '../assets/TICTAMap.jpg'

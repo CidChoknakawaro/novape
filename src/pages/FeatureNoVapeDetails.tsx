@@ -1,11 +1,8 @@
-// src/pages/FeatureNoVapeDetails.tsx
-import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 // import Avatar from '../assets/avatar.jpg'
 
 export default function FeatureNoVapeDetails() {
   const nav = useNavigate()
-  const [message, setMessage] = useState('')
 
   return (
     <div className="min-h-screen bg-white flex flex-col px-4">

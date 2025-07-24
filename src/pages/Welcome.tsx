@@ -1,5 +1,3 @@
-// src/pages/Welcome.tsx
-import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import logo from '../assets/logo_welcome.svg'
 

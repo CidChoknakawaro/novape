@@ -1,5 +1,4 @@
-// src/pages/FeatureNoVape.tsx
-import React, { useState } from 'react'
+import { useState } from 'react';
 import { useNavigate } from 'react-router-dom'
 
 const daysOfWeekFull = ['MON','TUE','WED','THU','FRI','SAT','SUN']
